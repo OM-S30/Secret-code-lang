@@ -1,0 +1,15 @@
+print("To code enter number 1 \n To decode enter number 2")
+
+code=(input(" enter number :"))
+if code=="1":
+  print("elloh")
+
+else:
+  print("error")
+
+a=(input("emter number:"))
+if a=="2":
+  print("hello")
+
+else:
+  print("error")
